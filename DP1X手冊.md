@@ -198,8 +198,13 @@ DP1X的光圈爲F4-F11，又將每一檔光圈分成三小份，故DP1X可用光
 
 除了控制進光量外，光圈還會影響成像質量和景深。
 
-DP1X雖然最大光圈僅爲F4，但各光圈的成像質量都很不錯。
-因此在選用光圈時無需考慮成像質量。
+DP1X雖然最大光圈僅爲F4，但各光圈的成像質量都很不錯，因此一般情況下無需考慮成像質量。[Photereview.com.au][pr]給出如下的數據：
+
+[pr]: http://www.photoreview.com.au/reviews/advanced-compact-cameras/fixed-lens/sigma-dp1x
+
+![dp1x-aperture](http://www.photoreview.com.au/var/photoreview/storage/images/media/images/dp1x_res-vs-la-graph/49499-1-eng-GB/dp1x_res-vs-la-graph.jpg)
+
+從上圖可以看出，中心部分成像，f4-f8的差別細微，f5最佳，f4.5、f5.6次之，f4、f6.3-f8再次之，f9又次之，f10、f11稍差，邊緣部分成像，f4-f11差別細微，f6.3最佳，f5、f5.6幾乎和f6.3一樣，f4.5、f7.1次之，f4、f8、f9再次之，f10、f11又次之。因此綜合考量中心和邊緣成像，f5最佳，f4-f8差別細微。
 
 景深與光圈值正相關，與鏡頭離主體的距離正相關。
 
