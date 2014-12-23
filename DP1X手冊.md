@@ -684,5 +684,3 @@ Berger也主張，僅僅參照符號系統來解析照片是不行的。「照�
 - John Berger & Jean Mohr. 2007. 另一種講述的方式[M]. 沈語冰,譯. 桂林:廣西師範大學出版社.
 - Michael Langford & Philip Andrews. 2009. 英國皇家藝術學院簡明攝影教程(Langford's Starting Photography)[M]. 6版. 屠非眀,譯. 北京:人民郵電出版社.
 - Paul Gallagher. 2010. 純影調：黑白攝影的藝術與魅力[M]. 陳思姍,譯. 北京:人民郵電出版社.
-- 叶梓. 2013. http://weibo.com/1627605792/zttAHFAuE[published at 2013-04-23 14:20, fetched at 2013-05-14]
-
